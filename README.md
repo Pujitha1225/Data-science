@@ -223,7 +223,17 @@ Data Reporting:
 
 2. Create a dashboard in tableau by choosing appropriate chart types and metrics useful for the business. The dashboard must entail the following:
 
-a. Pie chart to describe the diabetic or non-diabetic population
+a. Pie chart to describe the diabetic or non-diabetic population.
+
+7. Course end project:
+
+   DESCRIPTION
+
+A significant public health concern is the rising cost of healthcare. Therefore, it's crucial to be able to predict future costs and gain a solid understanding of their causes. The insurance industry must also take this analysis seriously. This analysis may be used by healthcare insurance providers to make a variety of strategic and tactical decisions.
+
+Objective: 
+
+The objective of this project is to predict patients’ healthcare costs and to identify factors contributing to this prediction. It will also be useful to learn the interdependencies of different factors and comprehend the significance of various tools at various stages of the healthcare cost prediction process.
 
 b. Scatter charts between relevant variables to analyze the relationships
 
